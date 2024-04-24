@@ -3,6 +3,9 @@
 This is a FastAPI application that implements rate limiting for users using Redis middleware. The application allows users to perform CRUD operations on a MongoDB database for managing student records.
 
 ##### Please make sure to include the header in your request, otherwise, it will return an error: - Key: X-User - Value: user_1
+![FastAPI Rate Limiting](https://drive.google.com/uc?export=view&id=1s6AYhQMfmtghoWDZ1BmjcYum0d9MpuWy "FastAPI Rate Limiting")
+
+
 
 ## Getting Started
 
