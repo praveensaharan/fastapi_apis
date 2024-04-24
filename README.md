@@ -17,7 +17,7 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repo:
 
    ```sh
-   git clone https://github.com/your_username_/fastapi_apis.git
+   git clone https://github.com/praveensaharan/fastapi_apis.git
    ```
 
 2. Install requirements:
@@ -49,7 +49,8 @@ To get a local copy up and running, follow these simple steps.
 #### Rate Limiting
 
     This application implements rate limiting for users using Redis middleware. Each user is limited to 10 requests per day. Once the limit is exceeded, a 429 Too Many Requests response is returned.
-    ## Each user is allowed only 10 requests per day.
+
+##### Each user is allowed only 10 requests per day.
 
 #### Endpoints
 
