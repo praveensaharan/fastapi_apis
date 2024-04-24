@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development environment
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+venv/
+env/
+envs/
+env36/
+env37/
+env38/
+env39/
+env3*/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Database files
+*.db
+*.sqlite3
+
+# Static files
+static/
+
+# Compiled files
+*.pyc
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Package files
+*.egg
+*.egg-info/
+*.tar.gz
+*.whl
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+main1.py
+aws_lambda_artifact.zip
+dependencies
