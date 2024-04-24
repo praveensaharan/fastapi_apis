@@ -2,7 +2,7 @@
 
 This is a FastAPI application that implements rate limiting for users using Redis middleware. The application allows users to perform CRUD operations on a MongoDB database for managing student records.
 
-### Please make sure to include the header in your request, otherwise, it will return an error: - Key: X-User - Value: user_1
+##### Please make sure to include the header in your request, otherwise, it will return an error: - Key: X-User - Value: user_1
 
 ## Getting Started
 
